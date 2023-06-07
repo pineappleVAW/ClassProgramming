@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "arduino:avr:circuitplay32u4cat",
+    "name": "Adafruit Circuit Playground",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
